@@ -9,3 +9,9 @@
 # webcam usa cualquiera de los 2 [ serveo.net y ngrok ]
 # y una ves que la victima entre al enlace, el enlace le tomara fotos sin que se de cuenta
 # aca se almacenan todas las fotos que el enlace pueda tomar 
+![Screenshot_20190613-110821~01](https://user-images.githubusercontent.com/46208706/59453408-0ac4ea00-8dcd-11e9-9a0e-ad262a5c4388.png)
+# :) listo disfruta >> sigueme en
+# YouTube : https://www.youtube.com/channel/UCjs0N8PbEo-se0r_4O_svNQ
+# Contacta : https://t.me/CesarGray
+# Telegram : https://t.me/joinchat/LGT7BRGoVMPWvJu7Qyq17g
+# att.. César
