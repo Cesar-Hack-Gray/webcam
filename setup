@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Obfuscate by @CesarHackGray
+# Created by @CesarHackGray
 # Contacta https://t.me/CesarGray
 #
 PIXIE=$(mktemp)
