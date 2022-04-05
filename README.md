@@ -1,4 +1,6 @@
-# webcam : Hackea cámara frontal de Android and pc
+# webcam : Hackea cámara frontal de Android and pc 
+    Accede ala camara frontal atraves
+    de un enlace falso de ngrok
 # Advertencia: Te da este error al entrar al link de ngrok?
 ![e](https://raw.githubusercontent.com/Cesar-Hack-Gray/release-download/master/Screenshot_2022-04-04-19-48-34-070_com.android.chrome.jpg)
 # Para solucionarlo sigue estos pasos 
